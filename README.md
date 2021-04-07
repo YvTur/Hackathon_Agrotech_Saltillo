@@ -15,7 +15,7 @@ A robot that helps out as a business model for expert data recolection
 * David Pozos
 * Cesar Alvarez
 * Luzadriana Flores
-* Mayra goMEZ
+* Mayra Gomez
 * Yves Macias 
 
 ## Architect Overview
